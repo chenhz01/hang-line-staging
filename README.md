@@ -4,6 +4,8 @@ An ephemeral "clothesline" for agent output. Work products hang on a virtual lin
 
 **As of 2026-10-11.**
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Agent pipelines constantly produce intermediate artifacts — rendered drafts, fetched payloads, generated snippets. Conventional staging writes every artifact to a temp directory "just in case". That default is wrong in three ways:
